@@ -5,4 +5,4 @@ Given an incomplete `MyController` class, write an API with path `/` using Sprin
 The `plusDays()` method can be used to calculate the date after 100 days.
 </MultiLineQuickTip>
 
-**Do not modify the `Application` class.**
+**Do not modify the `Application` class.**# spring-boot
